@@ -1,0 +1,10 @@
+2022-08-24 09:29:31,078 - Started Product Ordering test
+2022-08-24 09:29:31,079 - Logging in
+2022-08-24 09:29:39,312 - Successfully Logged in
+2022-08-24 09:29:41,605 - searching product
+2022-08-24 09:29:46,150 - Added dress to cart
+2022-08-24 09:29:48,250 - Dress added successfully to cart
+2022-08-24 09:29:50,657 - Delivery address info status test passed
+2022-08-24 09:29:50,838 - Invoice address info status test passed
+2022-08-24 09:30:06,153 - Ended Product Ordering test successfully
+2022-08-24 09:33:40,917 - Starting Account Login Data driven test
