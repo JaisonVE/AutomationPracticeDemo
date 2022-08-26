@@ -1,5 +1,5 @@
 # AutomationPracticeDemo
-Demo project
+Demo project:
 This Demo project was created for website "http://automationpractice.com/"
 Four tests were run for this project, as mentioned below:
 
