@@ -1,6 +1,6 @@
 # AutomationPracticeDemo
 Demo project:
-This Demo project was created for website "http://automationpractice.com/"
+This Demo project was created for testing website "http://automationpractice.com/"
 Four tests were run for this project, as mentioned below:
 
 Data driven login test: Login was attempted with different combinations of email id's and passwords, both correct and incorrect. Inference on test's pasing or failing was drawn, by chechking if sign in was successful for correct combination and unsuccesseful for incorrect combination
